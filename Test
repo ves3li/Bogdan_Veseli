@@ -1,0 +1,71 @@
+<html lang = "en">
+
+	<head>
+		<title>Test</title>
+	</head>
+
+	<body>
+		<h1>This is my first page</h1>
+		<p lang = "en-us">This text will be introduction to the rest of the page</p>
+
+		<h2>This is a sub-heading</h2>
+		<p lang = "en-us">Many long articles have sub-headings so to help
+ 			you follow the structure of what is being written.
+ 			There may even be sub-sub-headings (or lower-level
+ 			headings).</p>
+ 		<h2>Another sub-heading</h2>
+ 		<p lang = "en-us">Hier we can see another sub-heading</p>
+
+ 		<h1>This is main heading</h1>
+
+ 		<p>This is my <b>life</b></p>
+ 		<p>Inside a product description you might see some <b>key features</b></p>
+ 		<p>This is how we make word appear <i>italic</i></p>
+ 		<p>Captain Cook sailed to Australia on the <i>Endeavour</i></p>
+ 		<p>We all know that 2<sup>2</sup> is 4</p>
+ 		<p>On the 4<sup>th</sup> of September you will learn about E = MC<sup>2</sup>.</p>
+ 		<p>The amount of CO<sub>2</sub> in the atmosphere grew by 2ppm in 2009<sub>1</sub>.</p>
+
+ 		<p>The Earth<br />gets one hundred tons heavier every day<br />due to falling space dust.</p>
+ 		<p>Venus is the only Planet that rotates clockwise.</p>
+ 		<hr />
+ 		<p>Jupiter is bigger than all the other Planets combined.</p>
+
+ 		<p><strong>Beware:</strong> Pickpockets operate in this area.</p> 
+ 		<p>This toy has many small pieces and is <strong>not<br />
+ 		suitable for children under five years old.</strong></p>
+ 		<p>I <em>think</em> I was the first. </p>
+ 		<p>I think <em>I</em> was the first. </p>
+ 		<p>"I think I was the <em>first</em>".</p> 
+
+ 		<blockquote cite = "https://www.google.com/search?client=opera&q=google+übersetzer&sourceid=opera&ie=UTF-8&oe=UTF-8">
+ 			<p>Did you ever stop to think, and forget to start
+               again?</p>
+ 		</blockquote>
+ 		<p>As A.A Milne said, <q>Some people talk to animals, Not many listen though. Thats the problem.</q></p>
+
+ 		<p>Abbreviations</p>
+
+ 		<section>
+            <h1>Heading</h1>
+            <p>Bunch of awesome content</p>
+        </section>
+
+        <p>Cryptids of Cornwall:</p>
+
+		<dl>
+    		<dt>Beast of Bodmin</dt>
+   			 <dd>A large feline inhabiting Bodmin Moor.</dd>
+
+   			 <dt>Morgawr</dt>
+   			 <dd>A sea serpent.</dd>
+
+   			<dt>Owlman</dt>
+    		<dd>A giant owl-like creature.</dd>
+		</dl>
+
+		<a href = "https://tiss.tuwien.ac.at/education/favorites.xhtml?dswid=2599&dsrid=553">Favorites TISS TU Wien</a>
+		<img src = "C:\Users\Acer\Pictures\12308151_10205697434103708_3731047492234707526_o.jpg" height="500" width="500" alt="Laki i Baki">
+		<p style = "color : red;">My favorite color is red.</p>
+ 	</body>
+</html>
