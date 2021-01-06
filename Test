@@ -1,10 +1,50 @@
+<!DOCTYPE html>
 <html lang = "en">
 
 	<head>
-		<title>Test</title>
+		<meta charset="utf-8">
+		<meta name="description" content="Die Jobsuche für den richtigen Job."> 
+		<meta name="author" content="Ivan">
+		<meta name="keywords" content="HTML, Tutorial, Giraffe">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Test</title>	
 	</head>
 
 	<body>
+		<section>	
+			<table>
+				<thead>
+					<h2>Name der Website</h2>
+				</thead>
+		<hr>		
+				<tbody>
+					<tr>	
+						<td><h5>Hier findet ihr den richtigen Job, nicht nur einen Standard 9-5 Job.</h5></td>
+						<td><img width="180" src="Dir 1/happyemployees.jpg" alt="Happy Employees"/></td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
+		<hr>
+		<section>
+			<table>
+				<thead>
+					<h6>
+					Habt ihr euch schon mal gefragt, welcher Job der richtige für einen ist?
+					Wir auch. Daher wollen wir euch ermöglichen mehrere Jobs auszubprobieren, bevor ich euch festlegt.
+					</h6>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Kein Risiko.</td>
+						<td></td>
+						<td>Keine Kosten.</td>
+						<td></td>
+						<td>Nur bessere Entscheidungen.</td>
+					</tr>
+				</tbody>
+			</table>
+		</section>
 		<h1>This is my first page</h1>
 		<p lang = "en-us">This text will be introduction to the rest of the page</p>
 
